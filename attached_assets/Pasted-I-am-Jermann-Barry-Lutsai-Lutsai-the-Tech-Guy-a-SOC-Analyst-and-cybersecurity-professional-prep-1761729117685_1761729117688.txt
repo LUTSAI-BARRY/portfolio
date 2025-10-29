@@ -1,0 +1,82 @@
+I am Jermann Barry Lutsai (“Lutsai the Tech Guy”), a SOC Analyst and cybersecurity professional preparing to launch my company, GuardZen. I want a modern, responsive personal portfolio website that reflects my tech-focus, professional brand, and mission.
+
+Who: Jermann Barry Lutsai — Junior SOC Analyst, cybersecurity practitioner (SOC monitoring, threat hunting, SIEM, penetration testing)
+What: A personal portfolio website — homepage + about section + skills/services + projects / lab work + blog/insights + contact + branding for “Lutsai the Tech Guy” + GuardZen company intro
+Where: Online (hosted on my own domain) and accessible across devices (desktop, tablet, mobile)
+When: Launch target Jan 2025 (in parallel to job hunting and GuardZen build)
+Why: To present myself professionally, build credibility in the tech / cybersecurity space, and provide a platform for recruiting, job applications, client leads (for GuardZen), mentoring, and networking
+
+Design & Functionality Requirements:
+
+Clean, professional, tech-savvy aesthetic (dark/light mode optionally, modern typography, clear visuals)
+
+Hero/banner section with my name, tagline (“Lutsai the Tech Guy”), a strong image/logo, quick summary
+
+About section: short one-line description (as you suggested), summary of background (diploma in Info Security & Ethical Hacking, academic diploma in Info & Cybersecurity), home lab setup, certifications (Security+, CySA+ in progress, EC-Council CSA…), job role goals (Tier 1 SOC Analyst)
+
+Skills/Services section: bullet or icon-based list of SOC monitoring, SIEM (Splunk, Wazuh), threat hunting, pen-testing labs, mentoring young learners, GuardZen CaaS services
+
+Projects/Portfolio section: showcase home lab projects (SOC Analyst Training Lab, Threat Intelligence Dashboard, Flare VM Customizations) with brief descriptions, role, technologies used, outcomes
+
+Blog / Insights section: optional short feed for technical posts (cybersecurity tips, bug bounty progress, mentoring stories)
+
+Contact section: simple contact form (name, email, message), links to LinkedIn, GitHub, Twitter/Instagram if relevant
+
+Footer: copyright, quick links, maybe a small GuardZen note
+
+Technical Requirements:
+
+Built using HTML, CSS, JavaScript (vanilla or minimal frameworks) — following the tutorial’s approach of “from scratch” 
+YouTube
+
+Responsive design (mobile first)
+
+Smooth navigation (scroll to sections, menu toggle on mobile)
+
+Deploy live (GitHub Pages, Netlify, or your own domain)
+
+Optimised images, accessible markup, semantic HTML
+
+Branding Notes:
+
+Use a consistent colour palette aligning with cybersecurity / tech (e.g., deep blue, electric green, charcoal, white)
+
+Include branding for GuardZen (maybe logo, tagline “Cybersecurity as a Service for the Gen Z guard”)
+
+Typography: modern sans-serif, clear headings
+
+Visuals: maybe a photo of you working in your lab, cybersecurity themed icons, maybe abstract digital background
+
+Call to Action:
+
+“Hire me”, “View my projects”, “Contact me for mentoring & cyber services”
+
+On the homepage hero section, include a button: “View portfolio” or “Get in touch”
+
+Scope & Timeline:
+
+Build initial MVP version by [set date] → maybe by end of December 2024 so you can start using during job applications in January 2025
+
+Later phases: expand blog, GuardZen service pages, testimonials, case-studies
+
+Deliverables:
+
+Single-page or multi-section site (could be single page with scroll or separate pages)
+
+Working navigation, responsive layout, all sections above
+
+Deploy live, share link on LinkedIn & GitHub profiles
+
+Optional Enhancements:
+
+Dark mode toggle
+
+Animation/scroll effects (fade-in, slide-in)
+
+Light CSS hover effects on project cards
+
+Light SEO meta tags (title, description)
+
+Google Analytics or simple visitor counter (later)
+
+Please design the site so it can grow into GuardZen’s web presence later, but focus now on personal brand and portfolio.
